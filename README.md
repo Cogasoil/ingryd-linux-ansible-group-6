@@ -11,3 +11,4 @@
 ## The respective static ip on the three machines as illustrated in the table above can all ping each other using the hostname or static ip
 
 ## The control machine can ssh into both node1 and node2 (a) securely and (b) without using password. (SSH Key-gen type is ed25519)
+# system-metrics-monitoring-and-reporting
